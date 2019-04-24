@@ -1,3 +1,5 @@
+This is the react project starter using webpack, babel, npm (without using create-react-app )
+
 Folder Structure:
 
 mkdir react-boilerplate
